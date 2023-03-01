@@ -1,6 +1,6 @@
 # websyst
 
-CLUSTER IV ETHEREAL FOX
+CLUSTER IV ETHEREAL
 Cluster is the BEST!
 
 Charl Vincent D. Sumayod
