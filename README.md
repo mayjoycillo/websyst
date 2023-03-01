@@ -8,7 +8,4 @@ Mayjoy B. Cillo
 Faizza S. Billonid
 ----Dodgey Roo----
 
-
-==============================
-
 Cluster 4 is the BEST!
