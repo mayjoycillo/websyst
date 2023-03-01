@@ -8,5 +8,12 @@ Mayjoy B. Cillo
 Faizza S. Billonid
 ----Dodgey Roo----
 
+<<<<<<< HEAD
 
 ==============================
+=======
+==========================
+--Faizza Billonid--
+--Mayjoy Cillo--
+--Charl Sumayod--
+>>>>>>> main
