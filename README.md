@@ -7,6 +7,7 @@ Charl Vincent D. Sumayod
 Mayjoy B. Cillo
 Faizza S. Billonid
 
-==============================
-
----Charl Sumayod---
+==========================
+--Faizza Billonid--
+--Mayjoy Cillo--
+--Charl Sumayod--
